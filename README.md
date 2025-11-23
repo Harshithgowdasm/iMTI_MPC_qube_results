@@ -9,17 +9,18 @@
 
 <video src="real/sinewave_real.mp4" width="480" controls muted playsinline></video>
 
-<video src="real/swingup_main_2.mp4" width="480" controls muted playsinline></video>
+<video src="real/swingup_real.mp4" width="480" controls muted playsinline></video>
 
-<video src="real/swingup_with_disturbance.mp4" width="480" controls muted playsinline></video>
+<video src="real/swingup_with_ditrubance.mp4" width="480" controls muted playsinline></video>
 
-<video src="real/swingup_main.mp4" width="480" controls muted playsinline></video>
 
 ## Virtual hardware
-<video src="virtual/bal_virtual_2.mp4" width="480" controls muted playsinline></video>
+<video src="virtual/bal_virtual.mp4" width="480" controls muted playsinline></video>
 
-<video src="virtual/downward_virtual_4.mp4" width="480" controls muted playsinline></video>
+<video src="virtual/downward_virtual.mp4" width="480" controls muted playsinline></video>
 
 <video src="virtual/freefall_virtual.mp4" width="480" controls muted playsinline></video>
 
-<video src="virtual/sine_virtual_2.mp4" width="480" controls muted playsinline></video>
+<video src="virtual/sine_virtual.mp4" width="480" controls muted playsinline></video>
+
+<!-- <video src="virtual/swing_up_virtual.webm" width="480" controls muted playsinline></video> -->
